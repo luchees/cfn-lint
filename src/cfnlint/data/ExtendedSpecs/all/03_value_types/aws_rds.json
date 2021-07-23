@@ -34,7 +34,11 @@
   {
     "op": "add",
     "path": "/ValueTypes/AWS::RDS::DBInstance.DBInstanceClass",
-    "value": {
-    }
+    "value": {}
+  },
+  {
+    "op": "add",
+    "path": "/ResourceTypes/AWS::RDS::DBCluster.CopyTagsSnapshot",
+    "value": {}
   }
 ]
